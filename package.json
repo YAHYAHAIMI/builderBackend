@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GabrSayadi/elderwise-support-backend.git"
+    "url": "git+ yahay 巴希尔/elderwise-support-backend.git"
   },
-  "author": "https://github.com/GabrSayadi",
+  "author": " yahay 巴希尔",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GabrSayadi/elderwise-support-backend/issues"
+    "url": " yahay 巴希尔/elderwise-support-backend/issues"
   },
-  "homepage": "https://github.com/GabrSayadi/elderwise-support-backend#readme",
+  "homepage": " yahay 巴希尔/elderwise-support-backend#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^16.0.3",

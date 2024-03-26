@@ -1,5 +1,5 @@
 /**
-* @author: https://github.com/GabrSayadi
+* @author:  yahay 巴希尔
 */
 const { register, login, updateUserById, getUser, getUsers, passwordUpdate } = require('../users/users.controller');
 const { checkToken, authorzeAdmin } = require('../../auth/authToken')

@@ -1,5 +1,5 @@
 /**
-* @author: https://github.com/GabrSayadi
+* @author:  yahay 巴希尔
 */
 
 const { verify } = require('jsonwebtoken')
